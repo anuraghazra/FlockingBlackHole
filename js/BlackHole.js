@@ -1,3 +1,7 @@
+/**
+ * @author <https://anuraghazra.github.io>
+ * @class BlackHole
+ */
 class BlackHole {
   constructor(x, y, mass) {
     this.pos = new Vector(x, y);

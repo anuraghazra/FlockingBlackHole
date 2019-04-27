@@ -1,3 +1,7 @@
+/**
+ * @author <https://anuraghazra.github.io>
+ * @class Boid
+ */
 class Boid {
 
   constructor(x, y, radius) {

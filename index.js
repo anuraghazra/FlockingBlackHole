@@ -1,3 +1,12 @@
+
+/**
+ * FlockingBlackHole
+ * Inspired by Daniel Shiffman's
+ * Coding Challenges: CC 144 | Black Hole Simulation
+ * @author <https://github.com/anuraghazra>
+ * @demo <https://anuraghazra.github.io/FlockingBlackHole>
+ */
+
 let boids = [];
 let blackholes = [];
 let ship;
